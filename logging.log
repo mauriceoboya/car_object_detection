@@ -1,0 +1,115 @@
+2024-11-26 05:59:26,426  INFO     create src/CarObjectDetection successfully
+2024-11-26 05:59:26,426  INFO     create src/CarObjectDetection/utils successfully
+2024-11-26 05:59:26,427  INFO     create src/CarObjectDetection/constant successfully
+2024-11-26 05:59:26,427  INFO     create src/CarObjectDetection/config successfully
+2024-11-26 05:59:26,427  INFO     create src/CarObjectDetection/entity successfully
+2024-11-26 05:59:26,427  INFO     create src/CarObjectDetection/components successfully
+2024-11-26 05:59:26,427  INFO     create src/CarObjectDetection/pipeline successfully
+2024-11-26 05:59:26,427  INFO     create config successfully
+2024-11-26 05:59:26,428  INFO     create .github/workflows successfully
+2024-11-26 05:59:28,635  INFO     create src/CarObjectDetection successfully
+2024-11-26 05:59:28,635  INFO     create src/CarObjectDetection/utils successfully
+2024-11-26 05:59:28,635  INFO     create src/CarObjectDetection/constant successfully
+2024-11-26 05:59:28,636  INFO     create src/CarObjectDetection/config successfully
+2024-11-26 05:59:28,636  INFO     create src/CarObjectDetection/entity successfully
+2024-11-26 05:59:28,636  INFO     create src/CarObjectDetection/components successfully
+2024-11-26 05:59:28,636  INFO     create src/CarObjectDetection/pipeline successfully
+2024-11-26 05:59:28,636  INFO     create config successfully
+2024-11-26 05:59:28,636  INFO     create .github/workflows successfully
+2024-11-26 06:00:25,035  INFO     create src/CarObjectDetection successfully
+2024-11-26 06:00:25,035  INFO     create __init__.py successfully
+2024-11-26 06:00:25,035  INFO     create src/CarObjectDetection/utils successfully
+2024-11-26 06:00:25,035  INFO     create __init__.py successfully
+2024-11-26 06:00:25,035  INFO     create src/CarObjectDetection/constant successfully
+2024-11-26 06:00:25,036  INFO     create common.py successfully
+2024-11-26 06:00:25,036  INFO     create src/CarObjectDetection/config successfully
+2024-11-26 06:00:25,036  INFO     create configurations.py successfully
+2024-11-26 06:00:25,036  INFO     create src/CarObjectDetection/entity successfully
+2024-11-26 06:00:25,036  INFO     create config_entity.py successfully
+2024-11-26 06:00:25,036  INFO     create src/CarObjectDetection/components successfully
+2024-11-26 06:00:25,036  INFO     create __init__.py successfully
+2024-11-26 06:00:25,036  INFO     create src/CarObjectDetection/pipeline successfully
+2024-11-26 06:00:25,036  INFO     create __init__.py successfully
+2024-11-26 06:00:25,037  INFO     create main.py successfully
+2024-11-26 06:00:25,037  INFO     create setup.py successfully
+2024-11-26 06:00:25,037  INFO     create config successfully
+2024-11-26 06:00:25,037  INFO     create config.yaml successfully
+2024-11-26 06:00:25,037  INFO     create params.yaml successfully
+2024-11-26 06:00:25,037  INFO     create .github/workflows successfully
+2024-11-26 06:00:25,037  INFO     create .gitkeep successfully
+2024-11-26 07:17:42,259  INFO     create src/CarObjectDetection successfully
+2024-11-26 07:18:46,018  INFO     create src/CarObjectDetection successfully
+2024-11-26 07:18:59,919  INFO     create src/CarObjectDetection successfully
+2024-11-26 07:20:27,046  INFO     create src/CarObjectDetection successfully
+2024-11-26 07:20:27,046  INFO     create __init__.py successfully
+2024-11-26 07:20:27,057  INFO     create src/CarObjectDetection/utils successfully
+2024-11-26 07:20:27,058  INFO     create __init__.py successfully
+2024-11-26 07:20:27,059  INFO     create src/CarObjectDetection/constant successfully
+2024-11-26 07:21:47,470  INFO     create src/CarObjectDetection successfully
+2024-11-26 07:22:18,532  INFO     create src/CarObjectDetection successfully
+2024-11-26 07:22:18,533  INFO     create __init__.py successfully
+2024-11-26 07:22:18,533  INFO     create src/CarObjectDetection/utils successfully
+2024-11-26 07:22:18,533  INFO     create __init__.py successfully
+2024-11-26 07:22:18,533  INFO     create src/CarObjectDetection/constant successfully
+2024-11-26 07:22:18,533  INFO     create common.py successfully
+2024-11-26 07:22:18,533  INFO     create src/CarObjectDetection/config successfully
+2024-11-26 07:22:18,533  INFO     create configurations.py successfully
+2024-11-26 07:22:18,534  INFO     create src/CarObjectDetection/entity successfully
+2024-11-26 07:22:18,534  INFO     create config_entity.py successfully
+2024-11-26 07:22:18,534  INFO     create src/CarObjectDetection/components successfully
+2024-11-26 07:22:18,534  INFO     create __init__.py successfully
+2024-11-26 07:22:18,534  INFO     create src/CarObjectDetection/pipeline successfully
+2024-11-26 07:22:18,534  INFO     create __init__.py successfully
+2024-11-26 07:22:50,305  INFO     create src/CarObjectDetection successfully
+2024-11-26 07:23:40,556  INFO     create src/CarObjectDetection successfully
+2024-11-26 07:23:40,570  INFO     create __init__.py successfully
+2024-11-26 07:23:40,572  INFO     create src/CarObjectDetection/utils successfully
+2024-11-26 07:23:40,572  INFO     create __init__.py successfully
+2024-11-26 07:23:40,573  INFO     create src/CarObjectDetection/constant successfully
+2024-11-26 07:23:40,573  INFO     create common.py successfully
+2024-11-26 07:23:40,574  INFO     create src/CarObjectDetection/config successfully
+2024-11-26 07:23:40,575  INFO     create configurations.py successfully
+2024-11-26 07:23:40,576  INFO     create src/CarObjectDetection/entity successfully
+2024-11-26 07:23:40,576  INFO     create config_entity.py successfully
+2024-11-26 07:23:40,577  INFO     create src/CarObjectDetection/components successfully
+2024-11-26 07:23:40,577  INFO     create __init__.py successfully
+2024-11-26 07:23:40,578  INFO     create src/CarObjectDetection/pipeline successfully
+2024-11-26 07:23:40,579  INFO     create __init__.py successfully
+2024-11-26 07:24:00,572  INFO     create src/CarObjectDetection successfully
+2024-11-26 07:24:00,572  INFO     Created src/CarObjectDetection/__init__.py successfully
+2024-11-26 07:24:00,572  INFO     create src/CarObjectDetection/utils successfully
+2024-11-26 07:24:00,572  INFO     Created src/CarObjectDetection/utils/__init__.py successfully
+2024-11-26 07:24:00,572  INFO     create src/CarObjectDetection/constant successfully
+2024-11-26 07:24:00,572  INFO     Created src/CarObjectDetection/constant/common.py successfully
+2024-11-26 07:24:00,573  INFO     create src/CarObjectDetection/config successfully
+2024-11-26 07:24:00,573  INFO     Created src/CarObjectDetection/config/configurations.py successfully
+2024-11-26 07:24:00,573  INFO     create src/CarObjectDetection/entity successfully
+2024-11-26 07:24:00,573  INFO     Created src/CarObjectDetection/entity/config_entity.py successfully
+2024-11-26 07:24:00,573  INFO     create src/CarObjectDetection/components successfully
+2024-11-26 07:24:00,573  INFO     Created src/CarObjectDetection/components/__init__.py successfully
+2024-11-26 07:24:00,573  INFO     create src/CarObjectDetection/pipeline successfully
+2024-11-26 07:24:00,574  INFO     Created src/CarObjectDetection/pipeline/__init__.py successfully
+2024-11-26 07:27:17,731  INFO     Directory already exists: src/CarObjectDetection
+2024-11-26 07:27:17,731  INFO     File already exists: src/CarObjectDetection/__init__.py
+2024-11-26 07:27:17,731  INFO     Directory already exists: src/CarObjectDetection/utils
+2024-11-26 07:27:17,732  INFO     File already exists: src/CarObjectDetection/utils/__init__.py
+2024-11-26 07:27:17,732  INFO     Directory already exists: src/CarObjectDetection/constant
+2024-11-26 07:27:17,732  INFO     File already exists: src/CarObjectDetection/constant/common.py
+2024-11-26 07:27:17,732  INFO     Directory already exists: src/CarObjectDetection/config
+2024-11-26 07:27:17,732  INFO     File already exists: src/CarObjectDetection/config/configurations.py
+2024-11-26 07:27:17,732  INFO     Directory already exists: src/CarObjectDetection/entity
+2024-11-26 07:27:17,733  INFO     File already exists: src/CarObjectDetection/entity/config_entity.py
+2024-11-26 07:27:17,733  INFO     Directory already exists: src/CarObjectDetection/components
+2024-11-26 07:27:17,733  INFO     File already exists: src/CarObjectDetection/components/__init__.py
+2024-11-26 07:27:17,733  INFO     Directory already exists: src/CarObjectDetection/pipeline
+2024-11-26 07:27:17,733  INFO     File already exists: src/CarObjectDetection/pipeline/__init__.py
+2024-11-26 07:27:17,733  INFO     Directory already exists: 
+2024-11-26 07:27:17,733  INFO     Created file: main.py
+2024-11-26 07:27:17,734  INFO     Directory already exists: 
+2024-11-26 07:27:17,734  INFO     Created file: setup.py
+2024-11-26 07:27:17,748  INFO     Created directory: config
+2024-11-26 07:27:17,749  INFO     Created file: config/config.yaml
+2024-11-26 07:27:17,749  INFO     Directory already exists: 
+2024-11-26 07:27:17,749  INFO     Created file: params.yaml
+2024-11-26 07:27:17,749  INFO     Created directory: .github/workflows
+2024-11-26 07:27:17,749  INFO     Created file: .github/workflows/.gitkeep
