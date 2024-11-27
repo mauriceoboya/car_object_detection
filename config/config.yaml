@@ -1,7 +1,7 @@
 artifacts_root: artifacts
 
 data_ingestion:
-  root_dir: artifacts/data_ingestion
-  souurce_URL: mohamedgobara/26-class-object-detection-dataset
-  local_data_dir: artifacts/data_ingestion/data.zip
-  unzip_dir: artifacts/data_ingestion
+  root_dir: "artifacts/data_ingestion"
+  source_URL: "mohamedgobara/26-class-object-detection-dataset"
+  local_data_dir: "artifacts/data_ingestion/data.zip"
+  unzip_dir: "artifacts/data_ingestion"

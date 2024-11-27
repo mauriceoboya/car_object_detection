@@ -1,3 +1,5 @@
 venv/
 research/
 logs/
+artifacts/
+main.py

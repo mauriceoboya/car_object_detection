@@ -21,4 +21,4 @@ logging.basicConfig(
     handlers=[file_handler, stream_handler]
 )
 
-logger = logging.getLogger(project_name)
+logger = logging.getLogger(__name__)
