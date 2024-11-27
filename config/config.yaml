@@ -5,3 +5,9 @@ data_ingestion:
   source_URL: "mohamedgobara/26-class-object-detection-dataset"
   local_data_dir: "artifacts/data_ingestion/data.zip"
   unzip_dir: "artifacts/data_ingestion"
+
+prepare_base_model:
+  root_dir: "artifacts/prepare_base_model"
+  model_name: "yolo11s"
+  model_dir: "artifacts/prepare_base_model/model"
+  checkpoint_dir: "artifacts/prepare_base_model/checkpoint"
