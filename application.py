@@ -2,8 +2,6 @@ from pathlib import Path
 import os
 import logging
 
-FORMAT = '%(asctime)s  %(levelname)-8s %(message)s'
-logging.basicConfig(filename="logging.log",level=logging.INFO,format=FORMAT)
 project_name="CarObjectDetection"
 
 file_paths=[
@@ -19,7 +17,6 @@ file_paths=[
     "config/config.yaml",
     "params.yaml",
     ".github/workflows/.gitkeep"
-
 ]
 
 for file_path in file_paths:

@@ -1,0 +1,11 @@
+README.md
+setup.py
+src/CarObjectDetection/__init__.py
+src/CarObjectDetection.egg-info/PKG-INFO
+src/CarObjectDetection.egg-info/SOURCES.txt
+src/CarObjectDetection.egg-info/dependency_links.txt
+src/CarObjectDetection.egg-info/requires.txt
+src/CarObjectDetection.egg-info/top_level.txt
+src/CarObjectDetection/components/__init__.py
+src/CarObjectDetection/pipeline/__init__.py
+src/CarObjectDetection/utils/__init__.py
