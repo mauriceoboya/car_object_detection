@@ -13,7 +13,7 @@ filelock==3.16.1
 fonttools==4.55.0
 fsspec==2024.10.0
 idna==3.10
-ipykernel==6.29.5
+ipykernel==6.18.0
 ipython==8.29.0
 jedi==0.19.2
 Jinja2==3.1.4
@@ -62,7 +62,7 @@ python-dateutil==2.9.0.post0
 python-slugify==8.0.4
 pytz==2024.2
 PyYAML==6.0.2
-pyzmq==23.2.1
+pyzmq>=24
 requests==2.32.3
 scikit-learn==1.5.2
 scipy<1.14
