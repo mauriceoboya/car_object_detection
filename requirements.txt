@@ -23,7 +23,6 @@ jupyter_core==5.7.2
 kaggle==1.6.17
 kagglehub==0.3.4
 kiwisolver==1.4.7
-logging==0.4.9.6
 MarkupSafe==3.0.2
 matplotlib==3.9.2
 matplotlib-inline==0.1.7
