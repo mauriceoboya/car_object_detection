@@ -48,7 +48,7 @@ class  ModelTrainingComponent(ConfigurationManager):
                 auto_augment="randaugment",
                 erasing=self.params.erasing,
                 crop_fraction=self.params.crop_fraction,
-                cfg=self.params.cfg,
+                cfg= None,
                 tracker="botsort.yaml"
             )
             logger.info("Model training completed successfully.")

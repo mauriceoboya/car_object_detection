@@ -3,5 +3,5 @@ from CarObjectDetection.pipeline.model_training_pipeline import ModelTrainingPip
 
 
 if __name__ == "__main__":
-    config_manager = ModelTrainingPipeline
+    config_manager = ModelTrainingPipeline()
     config_manager.main()

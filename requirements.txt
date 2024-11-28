@@ -1,11 +1,6 @@
-logging==0.4.9.6
-pathlib==1.0.1
-logging==0.4.9.6
-pathlib==1.0.1
-python-box==7.2.0
--e .asttokens==2.4.1
+asttokens==2.4.1
 bleach==6.2.0
--e git+https://github.com/mauriceoboya/car_object_detection.git@bf831218e4d3cb3dbf87c7761011e2298ed9330e#egg=CarObjectDetection
+-e git+https://github.com/mauriceoboya/car_object_detection.git@a79f43889364bb54ef1a5d57fefd7f082c888c87#egg=CarObjectDetection
 certifi==2024.8.30
 charset-normalizer==3.4.0
 comm==0.2.2
@@ -35,7 +30,7 @@ matplotlib-inline==0.1.7
 mpmath==1.3.0
 nest-asyncio==1.6.0
 networkx==3.4.2
-numpy==2.1.3
+numpy <2.0
 nvidia-cublas-cu12==12.4.5.8
 nvidia-cuda-cupti-cu12==12.4.127
 nvidia-cuda-nvrtc-cu12==12.4.127
@@ -50,7 +45,7 @@ nvidia-nvjitlink-cu12==12.4.127
 nvidia-nvtx-cu12==12.4.127
 opencv-python==4.10.0.84
 packaging==24.2
-pandas==2.2.3
+pandas==2.2.2
 parso==0.8.4
 pathlib==1.0.1
 pexpect==4.9.0
@@ -60,6 +55,7 @@ prompt_toolkit==3.0.48
 psutil==6.1.0
 ptyprocess==0.7.0
 pure_eval==0.2.3
+py-cpuinfo==9.0.0
 Pygments==2.18.0
 pyparsing==3.2.0
 python-box==7.2.0
@@ -67,10 +63,10 @@ python-dateutil==2.9.0.post0
 python-slugify==8.0.4
 pytz==2024.2
 PyYAML==6.0.2
-pyzmq==26.2.0
+pyzmq==23.2.1
 requests==2.32.3
 scikit-learn==1.5.2
-scipy==1.14.1
+scipy<1.14
 seaborn==0.13.2
 six==1.16.0
 stack-data==0.6.3
@@ -79,12 +75,14 @@ text-unidecode==1.3
 threadpoolctl==3.5.0
 torch==2.5.1
 torchvision==0.20.1
-tornado==6.4.2
+tornado==6.3.3
 tqdm==4.67.1
 traitlets==5.14.3
 triton==3.1.0
 typing_extensions==4.12.2
 tzdata==2024.2
+ultralytics==8.3.38
+ultralytics-thop==2.0.12
 urllib3==2.2.3
 wcwidth==0.2.13
 webencodings==0.5.1
