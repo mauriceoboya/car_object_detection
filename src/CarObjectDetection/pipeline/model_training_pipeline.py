@@ -10,3 +10,7 @@ class ModelTrainingPipeline:
         model_training_pipeline = ModelTrainingComponent()
         model_training_pipeline.train_model()
         logger.info(f"{STAGE3} completed successfully.")
+
+if __name__ == "__main__":
+    data_training = ModelTrainingPipeline()
+    data_training.main()

@@ -13,3 +13,6 @@ class BaseModelPreparationPipeline:
 
 
 
+if __name__ == "__main__":
+    data_base_model = BaseModelPreparationPipeline()
+    data_base_model.main()
