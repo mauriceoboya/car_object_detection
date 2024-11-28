@@ -5,6 +5,9 @@ data_ingestion:
   source_URL: "mohamedgobara/26-class-object-detection-dataset"
   local_data_dir: "artifacts/data_ingestion/data"
   unzip_dir: "artifacts/data_ingestion"
+  test_path: "artifacts/data_ingestion/data/Senior-Design-VIAD-4/test/"
+  train_path: "artifacts/data_ingestion/data/Senior-Design-VIAD-4/train/"
+  valid_path: "artifacts/data_ingestion/data/Senior-Design-VIAD-4/valid/"
 
 prepare_base_model:
   root_dir: "artifacts/prepare_base_model"
@@ -19,6 +22,3 @@ model_training:
   model_coco_images: "artifacts/model_training/data/coco/images"
   model_coco_labels: "artifacts/model_training/data/coco/labels"
   output_dir: "artifacts/model_training/output"
-  test_path: "artifacts/data_ingestion/data/Senior-Design-VIAD-4/test"
-  train_path: "artifacts/data_ingestion/data/Senior-Design-VIAD-4/train"
-  valid_path: "artifacts/data_ingestion/data/Senior-Design-VIAD-4/valid"
