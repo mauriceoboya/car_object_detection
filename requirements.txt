@@ -3,7 +3,7 @@ pathlib==1.0.1
 logging==0.4.9.6
 pathlib==1.0.1
 python-box==7.2.0
--e .asttokens==2.4.1
+asttokens==2.4.1
 bleach==6.2.0
 -e git+https://github.com/mauriceoboya/car_object_detection.git@bf831218e4d3cb3dbf87c7761011e2298ed9330e#egg=CarObjectDetection
 certifi==2024.8.30
