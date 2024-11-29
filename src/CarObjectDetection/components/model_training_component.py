@@ -7,9 +7,9 @@ from ultralytics import YOLO
 class  ModelTrainingComponent(ConfigurationManager):
     def train_model(self):
         folder_path= self.config.model_training.root_dir
-        train_path = self.config.data_ingestion.train_path
-        valid_path = self.config.data_ingestion.valid_path
-        test_path = self.config.data_ingestion.test_path
+        train_path = self.config.model_training.train
+        valid_path = self.config.model_training.val
+        test_path = self.config.model_training.test
         dataset_yaml_content = {
             "train": os.path.abspath(train_path),
             "val": os.path.abspath(valid_path),
@@ -46,8 +46,7 @@ class  ModelTrainingComponent(ConfigurationManager):
                 name="yolo_training",
                 pretrained=True,
                 auto_augment="randaugment",
-                erasing=self.params.erasing,
-                crop_fraction=self.params.crop_fraction,
+                #erasing=self.params.erasing,
                 cfg= None,
                 tracker="botsort.yaml"
             )

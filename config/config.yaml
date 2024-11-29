@@ -22,3 +22,6 @@ model_training:
   model_coco_images: "artifacts/model_training/data/coco/images"
   model_coco_labels: "artifacts/model_training/data/coco/labels"
   output_dir: "artifacts/model_training/output"
+  test: "artifacts/model_training/data/coco/images/test"
+  train: "artifacts/model_training/data/coco/images/train"
+  val: "artifacts/model_training/data/coco/images/valid"

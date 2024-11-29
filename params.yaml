@@ -1,6 +1,5 @@
 epochs: 1
-imgsz: 640
-batch_size: 16
-learning_rate: 0.001
-erasing: 0.4
-crop_fraction: 1.0
+imgsz: 224
+batch_size: 4
+learning_rate: 0.0005
+#erasing: 0.4
