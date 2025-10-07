@@ -1,6 +1,6 @@
 # 🚗 Car Object Detection Project
 
-This project demonstrates car object detection using deep learning techniques. It is designed to train, evaluate, and deploy object detection models like YOLO and EfficientDet. The dataset includes images of cars annotated with bounding boxes.
+This project demonstrates car object detection using deep learning techniques. It is designed to train, evaluate, and deploy object detection model YOLOv11. The dataset includes images of cars annotated with bounding boxes.
 
 ---
 
